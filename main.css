@@ -53,7 +53,7 @@ body {
     left: 25em;
     width: 20em;
     height: 20em;
-    animation: orbit 10s linear infinite;
+    animation: orbit 2s linear infinite;
 }.mercury::before {
     top: 2.8em;
     right: 2.6em;
@@ -67,7 +67,7 @@ body {
     left: 20em;
     width: 30em;
     height: 30em;
-    animation: orbit 20s linear infinite;
+    animation: orbit 4s linear infinite;
 }.venus::before {
     top: 4.0em;
     right: 3.8em;
@@ -82,7 +82,7 @@ body {
     left: 15em;
     width: 40em;
     height: 40em;
-    animation: orbit 36.5s linear infinite;
+    animation: orbit 6s linear infinite;
 }
 .earth::before {
     top: 5.4em;
@@ -97,7 +97,7 @@ body {
     right: 37px;
     width: 4em;
     height: 4em;
-    animation: orbit 2.7s linear infinite;
+    animation: orbit 8s linear infinite;
 }
 .moon::before {
     top: 0.3em;
@@ -128,7 +128,7 @@ body {
     left: -2em;
     width: 70em;
     height: 70em;
-    animation: orbit 20s linear infinite;
+    animation: orbit 12s linear infinite;
 }.jupiter::before {
     top: 8.8em;
     right: 7.8em;
@@ -142,7 +142,7 @@ body {
     left: -10em;
     width: 90em;
     height: 90em;
-    animation: orbit 10s linear infinite;
+    animation: orbit 14s linear infinite;
 }.saturn::before {
     top: 11.5em;
     right: 11.6em;
@@ -152,28 +152,28 @@ body {
 }
 
 .uranus {
-    top: 15em;
-    left: 15em;
-    width: 40em;
-    height: 40em;
-    animation: orbit 20s linear infinite;
+    top: -17em;
+    left: -19em;
+    width: 110em;
+    height: 110em;
+    animation: orbit 16s linear infinite;
 }.uranus::before {
-    top: 4.8em;
-    right: 4.8em;
+    top: 15.8em;
+    right: 13.8em;
     width: 2.7em;
     height: 2.7em;
     background-color: rgb(10, 141, 255);
 }
 
 .neptune {
-    top: 15em;
-    left: 15em;
-    width: 40em;
-    height: 40em;
-    animation: orbit 20s linear infinite;
+    top: -26em;
+    left: -31em;
+    width: 130em;
+    height: 130em;
+    animation: orbit 18s linear infinite;
 }.neptune::before {
-    top: 4.8em;
-    right: 4.8em;
+    top: 18.8em;
+    right: 16.8em;
     width: 2.7em;
     height: 2.7em;
     background-color: rgb(0, 159, 212);
